@@ -1,0 +1,7 @@
+D:\FW\Storehouse\BT\C#\LTNC\Tuan1-BTS1\Bai4\bin\Debug\Bai4.exe.config
+D:\FW\Storehouse\BT\C#\LTNC\Tuan1-BTS1\Bai4\bin\Debug\Bai4.exe
+D:\FW\Storehouse\BT\C#\LTNC\Tuan1-BTS1\Bai4\bin\Debug\Bai4.pdb
+D:\FW\Storehouse\BT\C#\LTNC\Tuan1-BTS1\Bai4\obj\Debug\Bai4.csprojAssemblyReference.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan1-BTS1\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan1-BTS1\Bai4\obj\Debug\Bai4.exe
+D:\FW\Storehouse\BT\C#\LTNC\Tuan1-BTS1\Bai4\obj\Debug\Bai4.pdb
