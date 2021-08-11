@@ -20,21 +20,21 @@ namespace Bai1
         {
             if (Math.Abs(a) >= Math.Abs(b))
             {
-                for (double i = 2; i <= a; i++)
+                for (int i = 2; i <= a; i++)
                 {
                     if (a % i == 0 && b % i == 0)
                     {
-                        Console.WriteLine("rut gon: " + a / i + "/" + b / i);
+                        Console.WriteLine("rut gon: "+ a / i + "/" + b / i);
                     }
                 }
             }
             else
             {
-                for (double i = 2; i <= a; i++)
+                for (int i = 2; i <= a; i++)
                 {
                     if (a % i == 0 && b % i == 0)
                     {
-                        Console.WriteLine("rut gon: " + a / i + "/" + b / i);
+                        Console.WriteLine("rut gon: "+ a / i + "/" + b / i);
                     }
                 }
             }
