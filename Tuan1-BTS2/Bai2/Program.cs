@@ -83,6 +83,7 @@ namespace Bai2
                 {
                     Console.WriteLine("{0}/{1}/{2} ", d + 1, m, y);
                 }
+                Console.ReadKey();
             }
             //nam ko nhuan
             else
@@ -155,6 +156,8 @@ namespace Bai2
                 {
                     Console.WriteLine("{0}/{1}/{2} ", d + 1, m, y);
                 }
+
+                Console.ReadKey();
             }
         }
     }

@@ -1,0 +1,7 @@
+D:\FW\Storehouse\BT\C#\LTNC\Tuan2-BTS1\GET_SET\bin\Debug\GET_SET.exe.config
+D:\FW\Storehouse\BT\C#\LTNC\Tuan2-BTS1\GET_SET\bin\Debug\GET_SET.exe
+D:\FW\Storehouse\BT\C#\LTNC\Tuan2-BTS1\GET_SET\bin\Debug\GET_SET.pdb
+D:\FW\Storehouse\BT\C#\LTNC\Tuan2-BTS1\GET_SET\obj\Debug\GET_SET.csprojAssemblyReference.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan2-BTS1\GET_SET\obj\Debug\GET_SET.csproj.CoreCompileInputs.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan2-BTS1\GET_SET\obj\Debug\GET_SET.exe
+D:\FW\Storehouse\BT\C#\LTNC\Tuan2-BTS1\GET_SET\obj\Debug\GET_SET.pdb

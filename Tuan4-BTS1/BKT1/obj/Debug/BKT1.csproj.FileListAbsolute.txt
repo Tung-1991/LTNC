@@ -1,0 +1,11 @@
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\bin\Debug\BKT1.exe.config
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\bin\Debug\BKT1.exe
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\bin\Debug\BKT1.pdb
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\obj\Debug\BKT1.csprojAssemblyReference.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\obj\Debug\BKT1.Form1.resources
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\obj\Debug\BKT1.Form2.resources
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\obj\Debug\BKT1.Properties.Resources.resources
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\obj\Debug\BKT1.csproj.GenerateResource.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\obj\Debug\BKT1.csproj.CoreCompileInputs.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\obj\Debug\BKT1.exe
+D:\FW\Storehouse\BT\C#\LTNC\Tuan4-BTS1\BKT1\obj\Debug\BKT1.pdb

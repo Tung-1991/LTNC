@@ -1,0 +1,15 @@
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\bin\Debug\netcoreapp3.1\Bai1.exe
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\bin\Debug\netcoreapp3.1\Bai1.deps.json
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.json
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.dev.json
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\bin\Debug\netcoreapp3.1\Bai1.dll
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\bin\Debug\netcoreapp3.1\Bai1.pdb
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\obj\Debug\netcoreapp3.1\Bai1.csprojAssemblyReference.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\obj\Debug\netcoreapp3.1\Bai1.Form1.resources
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.GenerateResource.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfoInputs.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfo.cs
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.CoreCompileInputs.cache
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\obj\Debug\netcoreapp3.1\Bai1.dll
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\obj\Debug\netcoreapp3.1\Bai1.pdb
+D:\FW\Storehouse\BT\C#\LTNC\Tuan3-BTS1\Bai1\obj\Debug\netcoreapp3.1\Bai1.genruntimeconfig.cache
